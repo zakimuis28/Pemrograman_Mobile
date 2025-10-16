@@ -260,3 +260,4 @@ Row _requirementRow(String title, String value) {
     ],
   );
 }
+
